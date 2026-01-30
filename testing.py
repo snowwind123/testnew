@@ -1,6 +1,8 @@
 NOTICES AND INFORMATION
 Do Not Translate or Localize
 
+I AM HERE
+
 This software incorporates material from third parties. Microsoft makes certain
 open source code available at https://3rdpartysource.microsoft.com, or you may
 send a check or money order for US $5.00, including the product name, the open
