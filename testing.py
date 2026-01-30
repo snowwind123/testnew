@@ -1,7 +1,9 @@
 NOTICES AND INFORMATION
 Do Not Translate or Localize
 
-I AM HERE
+I AM HERE'
+
+U are here too
 
 This software incorporates material from third parties. Microsoft makes certain
 open source code available at https://3rdpartysource.microsoft.com, or you may
